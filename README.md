@@ -9,7 +9,7 @@ Sou um desenvolvedor focado em Ruby on Rails procurando por oportunidades e cola
 
 ```ruby
 Class Developer
-  def initializer()
+  def initialize()
 end
 ```
 
