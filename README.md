@@ -1,11 +1,20 @@
 ### Olá, sou o Jhonnatas 👋
+
+Sou desenvolvedor focado em Ruby on Rails procurando por oportunidades e colaborações em projetos que utilizem essa linguagem e framework.
+- Estou atualmente trabalhando em um sistema de gerenciamneto de eventos em Ruby on Rails;
+- Estou também trabalhando em um sistema de gerencimento de suporte técnico também em Ruby on Rails;
+- Busco colaborar em outros projetos.
+
+
 ![Jhonnatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark)
+
 ```ruby
 Class Developer
   def initializer()
 end
 ```
-## Tecnologias do meu dia
+
+## 🚀💻 Tecnologias e ferramentas
 <div style="display: inline_block">
   <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg">
   <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rails.svg">
