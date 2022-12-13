@@ -1,17 +1,38 @@
 ### Olá, sou o Jhonnatas 👋
 ![Jhonnatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark)
-
+```ruby
+Class Developer
+  def initializer()
+end
+```
 ## Tecnologias do meu dia
-
+<div style="display: inline_block">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rails.svg">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+</div>
+<!--
 <div style="display: inline_block"><br />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
+  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
 </div>
+-->
 
-
-
-
+## Social media
+<a target="_blank" href="https://www.linkedin.com/in/jhonnatas-alencar-7a3106a5/">
+  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" />
+</a>
+<a target="_blank" href="https://www.instagram.com/jhonnatasaires/">
+  <img align="left" alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />
+</a>
+<a target="_blank" href="mailto:jhonnatas.aires@gmail.com">
+  <img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
+</a>
