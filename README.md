@@ -46,11 +46,11 @@ end
 
 ## 🤝 Social media
 <a target="_blank" href="https://www.linkedin.com/in/jhonnatas-alencar-7a3106a5/">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" />
+  <img align="left" alt="LinkdeIN" width="25px" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/jhonnatasaires/">
-  <img align="left" alt="Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />
+  <img align="left" alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />
 </a>
 <a target="_blank" href="mailto:jhonnatas.aires@gmail.com">
-  <img align="left" alt="Gmail" width="30px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
+  <img align="left" alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
 </a>
