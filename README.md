@@ -1,10 +1,9 @@
 ### Olá, sou o Jhonnatas 👋
 
-Sou desenvolvedor focado em Ruby on Rails procurando por oportunidades e colaborações em projetos que utilizem essa linguagem e framework.
+Sou um desenvolvedor focado em Ruby on Rails procurando por oportunidades e colaborações em projetos que utilizem essa linguagem e framework.
 - Estou atualmente trabalhando em um sistema de gerenciamneto de eventos em Ruby on Rails;
 - Estou também trabalhando em um sistema de gerencimento de suporte técnico também em Ruby on Rails;
 - Busco colaborar em outros projetos.
-
 
 ![Jhonnatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark)
 
@@ -24,14 +23,15 @@ end
   <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-</div>
+ </div>
+
 <!--
 <div style="display: inline_block"><br />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+  <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />    
 </div>
 -->
 
