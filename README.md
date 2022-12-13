@@ -5,15 +5,12 @@ Sou um desenvolvedor focado em Ruby on Rails procurando por oportunidades e cola
 - :construction_worker: Estou também trabalhando em um sistema de gerencimento de suporte técnico também em Ruby on Rails;
 - :dart: Busco colaborar em outros projetos.
 
-![Jhonnatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/jhonnatas)
-
 ```ruby
 Class Developer
   def initialize()
-end
 ```
+![Jhonnatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/jhonnatas)
 
 ## 🚀💻 Tecnologias e ferramentas
 <div style="display: inline_block">
@@ -44,6 +41,10 @@ end
 </div>
 -->
 
+```
+  end
+end
+```
 ## 🤝 Social media
 <a target="_blank" href="https://www.linkedin.com/in/jhonnatas-alencar-7a3106a5/">
   <img align="left" alt="LinkdeIN" width="25px" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" />
