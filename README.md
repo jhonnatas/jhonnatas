@@ -57,4 +57,4 @@ end
   <img align="left" alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
 </a>
 
-![Snake animation](https://github.com/jhonnatas/jhonnatas/blob/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jhonnatas/jhonnatas/blob/output/github-contribution-grid-snake.svg)
