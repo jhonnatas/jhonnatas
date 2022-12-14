@@ -30,8 +30,7 @@ Class Developer
 <div style="display: inline_block">
  <img height="25" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">
  <img height="25" src="https://cdn-icons-png.flaticon.com/128/919/919851.png">
-</div>
- 
+</div> 
  
 <!--
 <div style="display: inline_block"><br />
@@ -57,3 +56,5 @@ end
 <a target="_blank" href="mailto:jhonnatas.aires@gmail.com">
   <img align="left" alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
 </a>
+
+![Snake animation](https://github.com/jhonnatas/jhonnatas/blob/github-contribution-grid-snake.svg)
