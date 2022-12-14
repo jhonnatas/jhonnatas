@@ -10,8 +10,8 @@ Class Developer
   def initialize()
 ```
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark" />
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnatas&layout=compact&theme=dark" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnatas&layout=compact&theme=dark" />
 </div>
 
 ## 🚀💻 Tecnologias e ferramentas
