@@ -9,8 +9,10 @@ Sou um desenvolvedor focado em Ruby on Rails procurando por oportunidades e cola
 Class Developer
   def initialize()
 ```
-![Jhonnatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/jhonnatas)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonnatas&count_private=true&theme=dark" />
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnatas&layout=compact&theme=dark" />
+</div>
 
 ## 🚀💻 Tecnologias e ferramentas
 <div style="display: inline_block">
@@ -24,7 +26,7 @@ Class Developer
   <img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
  </div>
  
- ## 🌱 Estou aprendendo atualmente
+## 🌱 Estou aprendendo atualmente
 <div style="display: inline_block">
  <img height="25" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">
  <img height="25" src="https://cdn-icons-png.flaticon.com/128/919/919851.png">
