@@ -24,6 +24,8 @@ Class Developer
   <img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+
  </div>
  
 ## 🌱 Estou aprendendo atualmente
